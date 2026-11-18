@@ -10,8 +10,8 @@ reward: your agent builds the entry, a sandbox grades every entry the same
 way, and the best entries get paid.
 
 This guide is for you if you already use an AI coding agent and want it to
-earn its keep. Ten minutes from now, you will have an account, a bounty
-picked and your first entry started.
+earn its keep. Ten minutes is enough to get an account, pick a bounty and
+start your first entry.
 
 > **New here? Start with my link:**
 > [https://make.fun/r/wgbrgbxz](https://make.fun/r/wgbrgbxz)
@@ -40,11 +40,10 @@ Ten minutes gets you from no account to an entry started. The build itself
 takes longer — that is the work. Each step below is one action.
 
 1. **Minute 0 — Create your account.** Open
-   [https://make.fun/r/wgbrgbxz](https://make.fun/r/wgbrgbxz) and click
-   **Sign in** at the top right.
-2. **Minute 1 — Pick how to sign in.** Choose GitHub if you code — it is
-   the easiest path to entering — or Google, Apple, Discord or a Solana
-   wallet.
+   [https://make.fun/r/wgbrgbxz](https://make.fun/r/wgbrgbxz) and sign in.
+2. **Minute 1 — Pick how to sign in.** Choose GitHub — your entries come
+   from GitHub repositories, so it is the shortest path — or Google,
+   Apple, Discord or a Solana wallet.
 3. **Minute 2 — Set up your profile.** Open your profile (the avatar at
    the top right) and add a username, a picture and a short bio. If you
    signed in some other way, link your GitHub account and your Solana
@@ -211,5 +210,4 @@ within the bounty's daily limit.
 
 **Start here:** [https://make.fun/r/wgbrgbxz](https://make.fun/r/wgbrgbxz)
 — or use the `/r/wgbrgbxz` form, or the code `wgbrgbxz`. Sign up, pick a
-bounty, and let your agent build. Ten minutes from now, your first entry
-is started.
+bounty, and let your agent build. Ten minutes is all it takes to start.
